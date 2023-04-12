@@ -8,7 +8,6 @@ public class ClasseX_DAO {
     public static String op;
     public static Double v1,v2,res;
         
-
     public static void soma(){
         String valor1 = JOptionPane.showInputDialog(null, "Digite o primeiro valor");
         v1 = Double.parseDouble(valor1);
